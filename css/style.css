@@ -18,15 +18,15 @@ body h2 {
   height: 450px; }
 
 .carousel-img-1 {
-  background: url("../img/database.jpg");
+  background: url("../img/o_database.jpg");
   background-size: cover; }
 
 .carousel-img-2 {
-  background: url("../img/keyboard2.jpg");
+  background: url("../img/html_keyboard.jpg");
   background-size: cover; }
 
 .carousel-img-3 {
-  background: url("../img/keyboard.jpg");
+  background: url("../img/c_keyboard.jpg");
   background-size: cover; }
 
 .carousel-caption h2 {
